@@ -22,9 +22,6 @@ The HTML Chat Application is a simple and user-friendly chat platform designed t
 
 ## Demo
 
-https://github.com/Rohit-Nandagawali/HTML-Chat-Application-using-java/assets/85486891/fc17a8e6-d98b-4bcd-a1e0-56a1d846e204
-
-
 
 
 ## Technology Used
